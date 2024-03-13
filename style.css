@@ -27,8 +27,10 @@ input {
   font-size: 1.2rem;
   margin: 1.7rem 0;
   padding: 1.1rem;
-  background-color: #bfbfbf;
+  background-color: skyblue;
   position: relative;
+  color: black;
+  text-align: left;
 }
 .transformOutput label {
   font-size: 0.75rem;
@@ -39,3 +41,4 @@ input {
   color: white;
   padding: 0.25rem;
 }
+
