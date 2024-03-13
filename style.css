@@ -14,7 +14,7 @@ body {
 }
 .heading {
   text-align: center;
-  padding: 26px 0px;
+  padding: 24px 0px;
 }
 input {
   width: 100%;
@@ -25,8 +25,8 @@ input {
 }
 .transformOutput {
   font-size: 1.2rem;
-  margin: 1.7rem 0;
-  padding: 1.1rem;
+  margin: 2rem 0;
+  padding: 10px;
   background-color: skyblue;
   position: relative;
   color: black;
@@ -37,8 +37,7 @@ input {
   position: absolute;
   left: 1rem;
   top: -0.75rem;
-  background-color: black;
+  background-color: rgb(31, 29, 29);
   color: white;
   padding: 0.25rem;
 }
-
